@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AvaloniaSessia4Chemp/MainWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+        <entry key="AvaloniaSessia4Chemp/MenuWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+        <entry key="AvaloniaSessia4Chemp/NapravlenWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+        <entry key="AvaloniaSessia4Chemp/RaspisWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+        <entry key="AvaloniaSessia4Chemp/RegWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+        <entry key="AvaloniaSessia4Chemp/ReseptsWindow.axaml" value="AvaloniaSessia4Chemp/AvaloniaSessia4Chemp.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

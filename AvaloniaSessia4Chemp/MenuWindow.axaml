@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="AvaloniaSessia4Chemp.MenuWindow"
+        Title="MenuWindow">
+        <Grid RowDefinitions=" * * * " ColumnDefinitions="* * *">
+                <StackPanel Grid.Column="1" Grid.Row="1">
+                        <TextBlock Text="Menu" FontSize="30" HorizontalAlignment="Center"/>
+                        <Button IsVisible="False" Content="Расписание" Click="RaspisButton" HorizontalAlignment="Center" Name="ButtonRaspis" Margin="10"/>
+                        <Button IsVisible="False" Content="Регистрация пациента" Click="RegButton" HorizontalAlignment="Center"  Name="ButtonReg"/>
+                        <Button IsVisible="False" Content="Выдача направлений" Click="NapravlenButton" HorizontalAlignment="Center"  Name="ButtonNaprav" Margin="10"/>
+                        <Button IsVisible="False" Content="Посещения и рецепты" Click="ReseptsButton" HorizontalAlignment="Center"  Name="ButtonResept"/>
+                </StackPanel>
+        </Grid>
+</Window>
